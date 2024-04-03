@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Online Learning Platform](https://github.com/Matross-20/aside.git)
 
-- 🌱 I’m currently learning **C,JavaScript and Bash**
+- 🌱 I’m currently learning **C, JavaScript and Bash**
 
 - 👯 I’m looking to collaborate on **Any type of websites**
 
