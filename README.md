@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mthawelanga Matross</h1>
-<h3 align="center">A dedicated fullstack developer from South Africa and Lesotho</h3>
+<h3 align="center">A dedicated fullstack developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matross-20&label=Profile%20views&color=0e75b6&style=flat" alt="matross-20" /> </p>
 
